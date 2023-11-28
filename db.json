@@ -1,0 +1,21 @@
+{
+  "forms": [
+    {
+      "elements": [
+        {
+          "extension": "input",
+          "title": "Input",
+          "icon": "/svg/Vector.svg",
+          "settings": {
+            "type": "text",
+            "label": "Your name",
+            "placeholder": "Write name"
+          },
+          "id": "d62c97f8-9cad-4ed3-9b2d-6a3e1d4933c2"
+        }
+      ],
+      "id": "9266298c-c372-42d2-8611-f37d9a0a85d3",
+      "name": "nicat"
+    }
+  ]
+}
